@@ -1,0 +1,16 @@
+.services{
+    background-color: aliceblue;
+    text-align: center;
+    max-height: max-content;
+}
+
+.service{
+    background-color: aliceblue;
+    text-align:center;
+    float: left;
+    width: 30%;
+    height: 200px;
+}
+.clear{
+    clear: both;
+}
